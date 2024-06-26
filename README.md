@@ -25,14 +25,19 @@
       • Interpret the coefficients in terms of the sign, size (magnitude), and significance.
 
 6. Check the following assumptions of the linear regression model:
-• Linearity
-• Normality in errors
-• Homoskedasticity
-• Unusual and influential observations
-Present a graphical presentation on each of the assumptions and comment.
-7. Do American cars run less mileage per gallon than foreign cars? Use an appropriate statistical test (make sure to write each step and the relevant values in detail in the document).
-8. Do the model year binary variables jointly have explanatory power? Use an appropriate statistical test (make sure to write each step and the relevant values in detail in the document).
-9. Calculate the model’s goodness of fit and comment.
+   
+      • Linearity
+   
+      • Normality in errors
+   
+      • Homoskedasticity
+   
+      • Unusual and influential observations
+   
+      Present a graphical presentation on each of the assumptions and comment.
+8. Do American cars run less mileage per gallon than foreign cars? Use an appropriate statistical test (make sure to write each step and the relevant values in detail in the document).
+9. Do the model year binary variables jointly have explanatory power? Use an appropriate statistical test (make sure to write each step and the relevant values in detail in the document).
+10. Calculate the model’s goodness of fit and comment.
 
   
 <h2><strong>Note</strong></h2>
