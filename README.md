@@ -14,15 +14,15 @@
 3. Calculate a pairwise correlation matrix for your model variables (while calculating the correlation matrix, only include the dependent variable and the non-binary independent variables that you selected for the model). Present the results in a table and comment on the correlation matrix.
 4. Using R, generate your model and follow these steps:
    
-  • Calculate VIF for the independent variables of your model and show the values in a table.
-  
-  • Comment on the multicollinearity issues in your model.
-  
-  • Avoid multicollinearity issues in your model and re-run the model if necessary.
-  
-  • Show the final model results in a table.
-  
-  • Interpret the coefficients in terms of the sign, size (magnitude), and significance.
+      • Calculate VIF for the independent variables of your model and show the values in a table.
+      
+      • Comment on the multicollinearity issues in your model.
+      
+      • Avoid multicollinearity issues in your model and re-run the model if necessary.
+      
+      • Show the final model results in a table.
+      
+      • Interpret the coefficients in terms of the sign, size (magnitude), and significance.
 
 6. Check the following assumptions of the linear regression model:
 • Linearity
